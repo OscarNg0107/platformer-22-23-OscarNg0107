@@ -1,0 +1,19 @@
+# ninja log v5
+6	458	7198676920000000	CMakeFiles/PlatformerSFML.dir/src/main.cpp.obj	4f1687731fcb2b3c
+8	524	7176094000000000	CMakeFiles/PlatformerSFML.dir/src/Vector2.cpp.obj	ee484816e90b5413
+22	451	7198676920000000	CMakeFiles/PlatformerSFML.dir/src/Player.cpp.obj	5506e2b111f7cd62
+13	616	7198676920000000	CMakeFiles/PlatformerSFML.dir/src/Game.cpp.obj	7880fec82f41a298
+616	1496	7198676940000000	PlatformerSFML.exe	d3ca4a2ac74aa8b8
+12	1255	7176094020000000	CMakeFiles/PlatformerSFML.dir/src/Text.cpp.obj	edb840fb48973fb7
+10	447	7196816640000000	CMakeFiles/PlatformerSFML.dir/src/GameObject.cpp.obj	574d51dc51e9d674
+17	445	7198676920000000	CMakeFiles/PlatformerSFML.dir/src/Character.cpp.obj	4ab7092e2669b80a
+18	1193	7176094020000000	CMakeFiles/PlatformerSFML.dir/src/Tilemap.cpp.obj	68699604fa4ab805
+302	376	7304050583403008	CMakeFiles/PlatformerSFML.dir/src/Vector2.cpp.obj	faa7a139a3a53d85
+313	784	7304050587484444	CMakeFiles/PlatformerSFML.dir/src/Player.cpp.obj	9df9df4a6b24b93c
+317	790	7304050587544240	CMakeFiles/PlatformerSFML.dir/src/Character.cpp.obj	738245ebea993e4a
+305	791	7304050587534274	CMakeFiles/PlatformerSFML.dir/src/GameObject.cpp.obj	cea5ebbb00c77fff
+322	795	7304050587604043	CMakeFiles/PlatformerSFML.dir/src/Tilemap.cpp.obj	491df293d3c7ae6c
+294	796	7304050587614014	CMakeFiles/PlatformerSFML.dir/src/main.cpp.obj	c390c66388811c02
+309	842	7304050588062513	CMakeFiles/PlatformerSFML.dir/src/Text.cpp.obj	6a595ed24277719c
+298	1001	7304050589657176	CMakeFiles/PlatformerSFML.dir/src/Game.cpp.obj	64c15b8e3c40da58
+1001	1640	7304050595981074	PlatformerSFML.exe	d3ca4a2ac74aa8b8
